@@ -3,10 +3,10 @@
 
 | Data       | Keterangan              |
 |------------|-------------------------|
-| **Nama**   | Arya Rangga Putra Pratama|
-| **NRP**    | 5025241072              |
+| **Nama**   | Rendy Tanuwijaya        |
+| **NRP**    | 5025241099              |
 | **Kelas**  | Komnum A                |
-| **Kelompok** | A-16                   |
+| **Kelompok** | A-16                  |
 | **Soal**   | Nomor 40                |  
 
 Sesuai dengan soal nomor 40, ini adalah laporan hasil pengerjaan saya yang berisi implementasi Python untuk menghitung luas di bawah kurva fungsi menggunakan **metode trapesium segmen berganda**, serta membandingkannya dengan hasil integral eksak menggunakan `sympy`.
