@@ -1,0 +1,1 @@
+# Rendy-Tanuwijaya_A16_ProgramKomnum_40.py
